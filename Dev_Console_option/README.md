@@ -40,4 +40,4 @@ window.open("https://rewards.bing.com/pointsbreakdown","_blank");
 
 ## Conclusion:
 You may need to give the MS rewards page a minute to load, if your points dont show up, try the process again. 
-If you have a slow internet connection you may need to try the HTML_Page_Option
+If you have a slow internet connection you may need to try the [HTML_Page_Option](../HTML_Page_Option)
