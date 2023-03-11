@@ -32,7 +32,7 @@ for (let i = 1; i * POINTS_EACH <= MAX_POINTS; ++i) {
     await sleep(10);
 }
 
-await sleep(1000);
+// await sleep(1000); // you dont really have to wait another sec but you might want to so you dont get a false positive for the searches counting
 
 // Open to the points breakdown page to make sure it worked properly
 window.open("https://rewards.bing.com/pointsbreakdown","_blank");
