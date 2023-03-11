@@ -28,7 +28,7 @@ for (let i = 1; i * POINTS_EACH <= MAX_POINTS; ++i) {
 }
 
 // Redirect current page to open the rewards tab
-window.open("https://www.rewards.bing.com/,"_self");
+window.open("https://rewards.bing.com/","_self");
 ```
 
 ## Conclusion:
