@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      function sleep(ms) {
+        return new Promise((resolve) => setTimeout(resolve, ms));
+      }
+      async function yourlink() {
+        window.open("https://rewards.bing.com/", "_blank");
+        const MAX_POINTS = 150 + 20;
+        const POINTS_EACH = 5;
+        for (let i = 1; i * POINTS_EACH <= MAX_POINTS; ++i) {
+          window.open(`https://www.bing.com/search?q=${i}`, "_blank");
+          console.log(i);
+          await sleep(650);
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <button onclick="yourlink()" width="100%" height="100%">Click Here to open all searches for microsoft rewards bs</button>
+  </body>
+</html>
