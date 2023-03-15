@@ -9,3 +9,10 @@ for better automating of the phone and pc searching, can we do one of the follow
     1c. Could this also handle visiting the news pages?
  
  2. Make a python script that auto runs that spoofs headers to make the search
+
+
+
+### MOBILE:
+Would it be easier to use a mobile emulator to do this all from a single pc device?
+This breaks our lightweight goal, but tradeoff is we can guarantee that we're all PC and can fully automate that way?
+Could potentially compare reward amounts for the different tasks?
