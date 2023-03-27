@@ -5,11 +5,11 @@ Microsoft Rewards automation
 
 See the individual branches for more information!
 
-| Features | Versions supported: | Notes: |
-|---|:---:|---|
-| PC Searches | [windows_bat](https://github.com/Noah-Jaffe/MsftRewards/tree/windows_bat) | 1.0 works, plans are to make it faster and more consistent |
-| Edge Exclusive Searches | [windows_bat](https://github.com/Noah-Jaffe/MsftRewards/tree/windows_bat) | 1.0 works, plans are to make it faster and more consistent |
-| Mobile Searches | [windows_bat](https://github.com/Noah-Jaffe/MsftRewards/tree/windows_bat) | Planned for v2.0.<br>Is it possible to do all search types from a single device without needing extra software? |
+| Features supported: |
+|---|
+| PC Searches | 
+| Edge Exclusive Searches |
+| Mobile Searches |
 
 all other features are not possible with this simple bat solution
 
