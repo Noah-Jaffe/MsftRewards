@@ -9,7 +9,7 @@ See the individual branches for more information!
 |---|:---:|---|
 | PC Searches | [1.0](https://github.com/Noah-Jaffe/MsftRewards/tree/v1.0/)+ | 1.0 works, plans are to make it faster and more consistent |
 | Edge Exclusive Searches | [1.0](https://github.com/Noah-Jaffe/MsftRewards/tree/v1.0/)+ | 1.0 works, plans are to make it faster and more consistent |
-| Mobile Searches | ❌ | Planned for v2.0.<br>Is it possible to do all search types from a single device without needing extra software? |
+| Mobile Searches | [mobile](https://github.com/Noah-Jaffe/MsftRewards/tree/mobile/) | Using edge (desktop or mobile device), do the searches, then go to the other desktop or mobile mode and repeat. |
 | Daily Sets | ❌ | Partial automation for a version in v3.x?<br>Full automation for a version 4.x?<br>Open to suggestions |
 | Quests and punch cards | ❌ | Partial automation for a version in v3.x?<br>Full automation for a version 5.x?<br>Open to suggestions |
 | More Activities | ❌ | Partial automation for a version in v3.x?<br>Full automation for a version 4.x?<br>Open to suggestions |
